@@ -1,4 +1,4 @@
-# IST146_Module01_Demo
+# IST146_Module02_InsertionSort
 
 This repository contains the code for the Doane University IST 146 Module 02 insertion sort project. 
 
